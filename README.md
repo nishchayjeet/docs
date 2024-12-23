@@ -13,7 +13,7 @@ Example Structure -> iotCommunity.space/docs/
 │           │   ├── authentication.md
 │           │   ├── device-management.md
 │           │   └── network-topologies.md
-│           ├── API/
+│           ├── Api/
 │           └── Networking/
 ├── structure.json
 └── *-tree.yml
