@@ -1,13 +1,34 @@
 {
   "Architecture": [
-    "authentication.md",
-    "device-management.md",
-    "encryption.md",
-    "network-topologies.md"
+    {
+      "title": "Authentication",
+      "link": "https://raw.githubusercontent.com/nishchayjeet/docs/refs/heads/main/docs/Architecture/source/en/authentication.md"
+    },
+    {
+      "title": "Device Management",
+      "link": "https://raw.githubusercontent.com/nishchayjeet/docs/refs/heads/main/docs/Architecture/source/en/device-management.md"
+    },
+    {
+      "title": "Encryption",
+      "link": "https://raw.githubusercontent.com/nishchayjeet/docs/refs/heads/main/docs/Architecture/source/en/encryption.md"
+    },
+    {
+      "title": "Network Topologies",
+      "link": "https://raw.githubusercontent.com/nishchayjeet/docs/refs/heads/main/docs/Architecture/source/en/network-topologies.md"
+    }
   ],
   "API": [
-    "authentication.md",
-    "endpoints.md",
-    "rate-limits.md"
+    {
+      "title": "Authentication",
+      "link": "https://raw.githubusercontent.com/nishchayjeet/docs/refs/heads/main/docs/API/source/en/authentication.md"
+    },
+    {
+      "title": "Endpoints",
+      "link": "https://raw.githubusercontent.com/nishchayjeet/docs/refs/heads/main/docs/API/source/en/endpoints.md"
+    },
+    {
+      "title": "Rate Limits",
+      "link": "https://raw.githubusercontent.com/nishchayjeet/docs/refs/heads/main/docs/API/source/en/rate-limits.md"
+    }
   ]
 }
