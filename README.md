@@ -7,9 +7,7 @@ This repository houses the comprehensive documentation for the IoT Community pla
 The documentation system is built using a three-column architecture:
 
 ```
-iotCommunity.space/docs/
-├── public/
-│   └── assets/
+Example Structure -> iotCommunity.space/docs/
 │       └── docs/
 │           ├── Architecture/
 │           │   ├── authentication.md
